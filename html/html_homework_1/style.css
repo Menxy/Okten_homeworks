@@ -1,0 +1,25 @@
+h1 {
+    background: #287cfc;
+    color: #ffd500;
+}
+p {
+    background: #fd7300;
+    color: aliceblue;
+    margin: 0;
+}
+h2 {
+    background: #39c8e1;
+
+}
+a {
+    color: #ffd400;
+    text-decoration: none;
+}
+ul {
+    background: #d9a2a5;
+    color: #300e4f;
+    margin: 0 0 16px 0;
+}
+img {
+    min-width: 260px;
+}
