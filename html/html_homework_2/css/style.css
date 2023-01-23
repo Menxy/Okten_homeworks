@@ -49,3 +49,6 @@ body {
 .block_2_basis {
     flex-basis: 50%;
 }
+a {
+    padding-left: 50%;
+}
