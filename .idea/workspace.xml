@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="Homework_2: Cards_Final">
-      <change afterPath="$PROJECT_DIR$/html/html_homework_3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html_homework_3/index.html" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="Homework_3: Cards_icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html_homework_2/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_2/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html_homework_2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html_homework_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html_homework_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1674224284110" duration="3356000" />
       <workItem from="1674319375844" duration="3901000" />
       <workItem from="1674482632873" duration="5183000" />
-      <workItem from="1674634377603" duration="2927000" />
+      <workItem from="1674634377603" duration="3340000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -145,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674487881649</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework_3: Cards_icons">
+      <created>1674637347258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674637347258</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +163,7 @@
     <MESSAGE value="Homework_2: BlueBlocks_Final" />
     <MESSAGE value="Homework_2: Cards" />
     <MESSAGE value="Homework_2: Cards_Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework_2: Cards_Final" />
+    <MESSAGE value="Homework_3: Cards_icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework_3: Cards_icons" />
   </component>
 </project>
