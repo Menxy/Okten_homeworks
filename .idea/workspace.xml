@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="Homework_3: Cards_icons_Final">
-      <change afterPath="$PROJECT_DIR$/html/html_homework_3/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html_homework_3/index2.html" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="Homework_3: Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html_homework_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html_homework_3/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/css/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/html_homework_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/html_homework_3/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html_homework_3/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/menxy/IdeaProjects/Okten_homeworks/html/html_homework_3/css",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/menxy/IdeaProjects/Okten_homeworks/html/html_homework_3/css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\html\html_homework_3\css" />
@@ -74,7 +75,8 @@
       <workItem from="1674224284110" duration="3356000" />
       <workItem from="1674319375844" duration="3901000" />
       <workItem from="1674482632873" duration="5183000" />
-      <workItem from="1674634377603" duration="8384000" />
+      <workItem from="1674634377603" duration="8445000" />
+      <workItem from="1674656985352" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -160,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674641554174</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Homework_3: Cards_layout_Final">
+      <created>1674654567141</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674654567141</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +184,8 @@
     <MESSAGE value="Homework_2: Cards_Final" />
     <MESSAGE value="Homework_3: Cards_icons" />
     <MESSAGE value="Homework_3: Cards_icons_Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework_3: Cards_icons_Final" />
+    <MESSAGE value="Homework_3: Cards_layout_Final" />
+    <MESSAGE value="Homework_3: Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework_3: Final" />
   </component>
 </project>

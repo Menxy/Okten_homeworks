@@ -59,9 +59,22 @@ body {
     background: #6a5b80;
     border-radius: 7px;
 }
+a:hover {
+    color: #ffd400;
+}
 .next {
+    position: absolute;
+    top: 15px;
+    left: 9px;
+}
+.btn {
+    border-radius: 50%;
+    border: 2px solid #b9b9b9;
+    width: 50px;
+    height: 50px;
     display: block;
-    padding: 30px;
-    text-decoration: none;
-    color: #000;
+    margin: 50px 0 0 50px;
+    position: absolute;
+    bottom: 100px;
+    top: 0;
 }
