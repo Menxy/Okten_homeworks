@@ -1,0 +1,46 @@
+body {
+    padding: 20px
+}
+div {
+    display: flex;
+}
+.wrap_1 {
+    flex-direction: column;
+    height: 60vh;
+    /*padding: 10px;*/
+}
+.box_a, .box_f {
+    flex-basis: 30%;
+}
+.wrap_2 {
+    flex-direction: row;
+    flex-basis: 70%;
+}
+.box_be {
+    flex-basis: 70%;
+    flex-direction: column;
+}
+.box_b, .box_cde {
+    flex-basis: 50%;
+}
+.box_c, .box_d, .box_e {
+    flex-basis: 33.66%;
+}
+.box_a,.box_b,.box_c,.box_d,.box_e,.box_f, .box_anch {
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    color: #707070;
+    background: #bebebe;
+    margin: 5px;
+    border-radius: 5px;
+}
+@media screen and (max-width: 800px) {
+    .wrap_2 {
+        flex-direction: column;
+    }
+}
+.box_anch>a {
+    text-decoration: none;
+    color: #194d19;
+}
