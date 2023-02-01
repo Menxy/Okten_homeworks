@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="Homework_4: Final">
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_1/script.js" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_1: Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/js_hw_1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/js_hw_1/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,8 @@
       <workItem from="1674656985352" duration="910000" />
       <workItem from="1674987895739" duration="6045000" />
       <workItem from="1675085615499" duration="1202000" />
-      <workItem from="1675198171376" duration="1510000" />
+      <workItem from="1675198171376" duration="1599000" />
+      <workItem from="1675271994247" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674993941322</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="JS_HW_1: Final">
+      <created>1675199766455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675199766455</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +225,7 @@
     <MESSAGE value="Homework_3: Final" />
     <MESSAGE value="Homework_4: 1st" />
     <MESSAGE value="Homework_4: Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework_4: Final" />
+    <MESSAGE value="JS_HW_1: Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_1: Final" />
   </component>
 </project>
