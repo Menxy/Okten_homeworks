@@ -13,9 +13,9 @@ let libHive = { title: 'Hive' ,pageCount: 675, genre: 'battle fantasy' };*/
 
 /*- Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre, authors. Поле "автори" - являєтьс
 я  масивом. Кожен автор має поля name та age.*/
-/*let bookIt = {title: 'It', pageCount: 1288, genre: 'horror', author: ['King', 79]};
-let book1984 = {title: '1984', pageCount: 478, genre: 'antiutopia', author: ['Orwell', 120]};
-let bookHive = {title: 'Hive', pageCount: 675, genre: 'battle fantasy', author: ['Kamenistiy', 45]};*/
+/*let bookIt = {title: 'It', pageCount: 1288, genre: 'horror', author: [{name:'King'},{age:79}]};
+let book1984 = {title: '1984', pageCount: 478, genre: 'antiutopia', author: [{name:'Orwell'}, {age:120}]};
+let bookHive = {title: 'Hive', pageCount: 675, genre: 'battle fantasy', author: [{name:'Kamenistiy'}, {age:45}]};*/
 
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в
 // консоль пароль кожного користувача
