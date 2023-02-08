@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+.users-box {
+    box-sizing: border-box;
+    width: 50%;
+    background: #eeeeee;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    padding: 0 20px;
+}
+h2 {
+    background: #cfe5d2;
+    border-radius: 15px;
+    padding: 20px;
+}
