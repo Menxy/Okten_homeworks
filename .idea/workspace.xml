@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_3: Main + add1 + add2 + add3">
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_3/add4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_3/add4.js" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_3: Main + add1 + add2 + add3 + add4(prom)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/js_hw_3/add4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/js_hw_3/add4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,8 @@
       <workItem from="1675708289746" duration="94000" />
       <workItem from="1675850077868" duration="15878000" />
       <workItem from="1675960157230" duration="91000" />
-      <workItem from="1675973396897" duration="3569000" />
+      <workItem from="1675973396897" duration="4200000" />
+      <workItem from="1676031696021" duration="3125000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -288,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675974873051</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="JS_HW_3: Main + add1 + add2 + add3 + add4(prom)">
+      <created>1675977032631</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977032631</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +323,7 @@
     <MESSAGE value="JS_HW_3: Main + add1" />
     <MESSAGE value="JS_HW_3: Main + add1 + add2" />
     <MESSAGE value="JS_HW_3: Main + add1 + add2 + add3" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_3: Main + add1 + add2 + add3" />
+    <MESSAGE value="JS_HW_3: Main + add1 + add2 + add3 + add4(prom)" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_3: Main + add1 + add2 + add3 + add4(prom)" />
   </component>
 </project>

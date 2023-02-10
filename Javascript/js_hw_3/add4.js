@@ -1,9 +1,9 @@
 // 1. Створити пустий масив та :
-let suffer = []
+/*let suffer = []*/
 //     a. заповнити його 50 парними числами за допомоги циклу.
-for (let i = 2; i <= 100; i += 2) {
+/*for (let i = 2; i <= 100; i += 2) {
     suffer.push(i)
-}
+}*/
 
 //     b. заповнити його 50 непарними числами за допомоги циклу.
 /*for (let i = 1; i < 100; i += 2) {
@@ -73,25 +73,30 @@ console.log(randomArr);
 console.log(fiveArr);*/
 
 // 8. Створити масив з будь якими значеннями (стрінги, числа, і тд...). пройтись по ньому, і якщо елемент є числом - додати його в інший масив.
-
-
+/*let arrMix = [34, 'foo', 345, true, 'dead', false, 222, true, 'megan', 23]
+let arrAdd = []
+for (const elem of arrMix) {
+    if (typeof elem === 'number') {
+        arrAdd.push(elem)
+    }
+}
+console.log(arrAdd);*/
 
 
 // - Дано 2 масиви з рівною кількістю об'єктів.
 // Масиви:
-//     let usersWithId = [
-//         {id: 1, name: 'vasya', age: 31, status: false},
-//         {id: 2, name: 'petya', age: 30, status: true},
-//         {id: 3, name: 'kolya', age: 29, status: true},
-//         {id: 4, name: 'olya', age: 28, status: false}
-//     ];
-//
-// let citiesWithId = [
-//     {user_id: 3, country: 'USA', city: 'Portland'},
-//     {user_id: 1, country: 'Ukraine', city: 'Ternopil'},
-//     {user_id: 2, country: 'Poland', city: 'Krakow'},
-//     {user_id: 4, country: 'USA', city: 'Miami'}
-// ];
+/*let usersWithId = [
+        {id: 1, name: 'vasya', age: 31, status: false},
+        {id: 2, name: 'petya', age: 30, status: true},
+        {id: 3, name: 'kolya', age: 29, status: true},
+        {id: 4, name: 'olya', age: 28, status: false}
+];
+let citiesWithId = [
+    {user_id: 3, country: 'USA', city: 'Portland'},
+    {user_id: 1, country: 'Ukraine', city: 'Ternopil'},
+    {user_id: 2, country: 'Poland', city: 'Krakow'},
+    {user_id: 4, country: 'USA', city: 'Miami'}
+];
 //
 // З'єднати в один об'єкт користувача та місто з відповідними "id" та "user_id" .
 //     Записати цей об'єкт в новий масив
@@ -110,15 +115,52 @@ console.log(fiveArr);*/
 //             },
 //             // TO BE CONTINUED .....
 //         ]
-//
-//
-//
-//
+let commonArr = []
+for (let i = 0; i < usersWithId.length; i++ ) {
+    for (let city of citiesWithId) {
+        if (usersWithId[i]['id'] === city['user_id']) {
+            commonArr.push(usersWithId[i]);
+            commonArr[i]['address'] = city
+        }
+    }
+}
+console.log(commonArr);*/
+
 //         - Взяти масив з 10 чисел або створити його. Вивести в консоль тільки ті елементи, значення яких є парними.
-//
+/*let someArr = [100,250,51,168,120,345,188,56,222,45];
+for (const number of someArr) {
+    if (number % 2 === 0){
+        console.log(number);
+    }
+}*/
+
 // - Взяти масив з 10 чисел або створити його. Створити 2й порожній масив. За допомогою будь-якого циклу скопіювати значення одного масиву в інший.
-//
-//
+/*let someArr = [100,250,51,168,120,345,188,56,222,45];
+let anyArr = [];
+for (const some of someArr) {
+    anyArr.push(some)
+}
+console.log(anyArr);*/
+
 // - Дано масив: [ 'a', 'b', 'c'] . За допомогою циклу for зібрати всі букви в слово.
+/*let letArr = [ 'a', 'b', 'c'];
+let word = '';
+for (const letter of letArr) {
+    word += letter
+}
+console.log(word);*/
+
 // - Дано масив: [ 'a', 'b', 'c'] . За допомогою циклу while зібрати всі букви в слово.
+/*let letArr = [ 'a', 'b', 'c'];
+let word = '';
+while (word.length < letArr.length) {
+    word += letArr[word.length]
+}
+console.log(word);*/
 // - Дано масив: [ 'a', 'b', 'c'] . За допомогою циклу for of зібрати всі букви в слово.
+/*let letArr = [ 'a', 'b', 'c'];
+let word = '';
+for (const letter of letArr) {
+    word += letter
+}
+console.log(word);*/
