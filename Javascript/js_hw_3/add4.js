@@ -1,14 +1,26 @@
 // 1. Створити пустий масив та :
-/*let suffer = []*/
+let suffer = []
 //     a. заповнити його 50 парними числами за допомоги циклу.
-/*for (let i = 2; i <= 100; i += 2) {
-    suffer.push(i)
-}*/
+/*let count = 0;
+for (let i = 1; i <= 100; i ++) {
+    if (i % 2 === 0) {
+        suffer[count] = i
+        count++
+    }
+
+}
+console.log(suffer);*/
 
 //     b. заповнити його 50 непарними числами за допомоги циклу.
-/*for (let i = 1; i < 100; i += 2) {
-    suffer.push(i)
-} */
+/*let count = 0;
+for (let i = 1; i <= 100; i ++) {
+    if (i % 2 !== 0) {
+        suffer[count] = i
+        count++
+    }
+
+}
+console.log(suffer);*/
 
 //     c. Заповнити масив 20ма рандомними числами. (Google: Generate random number JS)
 /*for (let i = 0; i < 20; i++) {
