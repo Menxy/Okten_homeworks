@@ -58,7 +58,7 @@ clientsArray[9]['order'] = ['water', 'vine', 'juice'];
 // - Взяти масив (Client [] з попереднього завдання).Відсортувати його по кількості товарів в полі order по зростанню. (sort)
 
 clientsArray.sort((f,s) => f['order'].length - s['order'].length)
-console.log(clientsArray);
+// console.log(clientsArray);
 
 // - Створити функцію конструктор яка дозволяє створювати об'єкти car, з властивостями модель,
 // виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
@@ -81,19 +81,19 @@ function CarCreator(model, manufacturer, year, maxSpeed, engine) {
         console.log(`year - ` + this.year);
         console.log(`maxSpeed - ` + this.maxSpeed);
         console.log(`engine - ` + this.engine)
-    }
+    };
     this.increaseMaxSpeed = function (newSpeed) {
         this.maxSpeed += newSpeed
-    }
+    };
     this.changeYear = function (newValue) {
         this.year = newValue
-    }
+    };
     this.addDriver = function (driver) {
         this.driver = driver
     }
 
 }
-let car1 = new CarCreator('Ford Taurus', 'Ford', 2022, 200, 2500)
+// let car1 = new CarCreator('Ford Taurus', 'Ford', 2022, 200, 2500)
 
 
 // - (Те саме, тільки через клас)
@@ -104,10 +104,40 @@ let car1 = new CarCreator('Ford Taurus', 'Ford', 2022, 200, 2500)
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
-//
-//
-//
-// -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги. Створити масив з 10 попелюшок.
+
+class Car {
+    constructor(model, manufacturer, year, maxSpeed, engine) {
+        this.model = model;
+        this.manufacturer = manufacturer;
+        this.year = year;
+        this.maxSpeed = maxSpeed;
+        this.engine = engine;
+    }
+    drive(){console.log(`їдемо зі швидкістю ${this.maxSpeed} км на годину`);};
+    info() {
+        console.log(`model - ` + this.model);
+        console.log(`manufacturer - ` + this.manufacturer);
+        console.log(`year - ` + this.year);
+        console.log(`maxSpeed - ` + this.maxSpeed);
+        console.log(`engine - ` + this.engine)
+    };
+    increaseMaxSpeed (newSpeed) {
+        this.maxSpeed += newSpeed
+    };
+    changeYear (newValue) {
+        this.year = newValue
+    };
+    addDriver (driver) {
+        this.driver = driver
+    }
+}
+
+let car2 = new Car('Ford Taurus', 'Ford', 2022, 200, 2500)
+
+
+// -створити класс/функцію конструктор попелюшка з полями ім'я, вік, розмір ноги.
+// Створити масив з 10 попелюшок.
+
 // Сторити об'єкт класу "принц" за допомоги класу який має поля ім'я, вік, туфелька яку він знайшов.
 //     За допомоги циклу знайти яка попелюшка повинна бути з принцом.
 //     Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
