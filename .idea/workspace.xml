@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_5: Arrow">
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_6/script.js" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_8: Half">
+      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_8/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/menxy/IdeaProjects/Okten_homeworks/Javascript/js_hw_3&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JSInitializeFieldsIntentionBase.visibility": "private",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/menxy/IdeaProjects/Okten_homeworks/Javascript/js_hw_3",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\Javascript\js_hw_3" />
@@ -109,7 +110,11 @@
       <workItem from="1676219592121" duration="3908000" />
       <workItem from="1676404699521" duration="2165000" />
       <workItem from="1676455120890" duration="3000" />
-      <workItem from="1676645237696" duration="8184000" />
+      <workItem from="1676645237696" duration="8798000" />
+      <workItem from="1676917207684" duration="940000" />
+      <workItem from="1676985965684" duration="1837000" />
+      <workItem from="1677007486379" duration="379000" />
+      <workItem from="1677234575702" duration="7897000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -328,15 +333,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676406883670</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="JS_HW_6: Methods">
+      <created>1676653604815</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676653604815</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework_1: Add" />
-    <MESSAGE value="Homework_2: BlueBlocks" />
     <MESSAGE value="Homework_2: BlueBlocks_Final" />
     <MESSAGE value="Homework_2: Cards" />
     <MESSAGE value="Homework_2: Cards_Final" />
@@ -360,6 +370,8 @@
     <MESSAGE value="JS_HW_3: Main + add1 + add2 + add3 + add4 Revise" />
     <MESSAGE value="JS_HW_4: Main" />
     <MESSAGE value="JS_HW_5: Arrow" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_5: Arrow" />
+    <MESSAGE value="JS_HW_6: Methods" />
+    <MESSAGE value="JS_HW_8: Half" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_8: Half" />
   </component>
 </project>
