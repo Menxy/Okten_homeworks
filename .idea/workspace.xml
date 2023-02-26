@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_8: Half">
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_8: Car">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Javascript/js_hw_8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/js_hw_8/script.js" afterDir="false" />
     </list>
@@ -114,7 +114,8 @@
       <workItem from="1676985965684" duration="1837000" />
       <workItem from="1677007486379" duration="379000" />
       <workItem from="1677234575702" duration="7908000" />
-      <workItem from="1677243303880" duration="452000" />
+      <workItem from="1677243303880" duration="1085000" />
+      <workItem from="1677419388670" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -347,14 +348,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677242699197</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="JS_HW_8: Car">
+      <created>1677243799100</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1677243799100</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework_2: BlueBlocks_Final" />
     <MESSAGE value="Homework_2: Cards" />
     <MESSAGE value="Homework_2: Cards_Final" />
     <MESSAGE value="Homework_3: Cards_icons" />
@@ -379,6 +386,7 @@
     <MESSAGE value="JS_HW_5: Arrow" />
     <MESSAGE value="JS_HW_6: Methods" />
     <MESSAGE value="JS_HW_8: Half" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_8: Half" />
+    <MESSAGE value="JS_HW_8: Car" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_8: Car" />
   </component>
 </project>
