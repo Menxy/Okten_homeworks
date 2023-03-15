@@ -1,0 +1,65 @@
+/* index.html*/
+.box {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px 20px 15px 20px;
+    border: 5px solid #289976;
+    border-radius: 10px;
+    background: #ccf1b6;
+    width: 35%;
+
+}
+.item {
+    padding: 10px;
+    font-size: 1.5em;
+    font-weight: 550;
+    color: #33691e;
+}
+.code {
+    flex-basis: 8%;
+}
+
+.button {
+    border: 3px solid #289976;
+    border-radius: 5px;
+    background: #eef5e1;
+    padding: 3px 35px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #1c6951;
+    font-weight: bold;
+}
+/* user-details.html */
+.header {
+    margin: 1% 5%;
+    color: #3D3B8E;
+}
+.wrap {
+    display: inline-block;
+    width: max-content;
+    margin-left: 5%;
+    padding: 20px;
+    border: 10px solid #E072A4;
+    border-radius: 20px;
+    background: #F9F9F9;
+}
+.user-item {
+    display: flex;
+    padding: 1px;
+}
+.post-button {
+    display: block;
+    padding: 5px 0;
+    text-align: center;
+    margin: 20px 5%;
+    color: #3D3B8E;
+    width: 90%;
+}
+.posts-list {
+    margin-left: 5%;
+    text-transform: capitalize;
+}
+.post-li::marker {
+    content: '  ✔    ';
+    color: #3D3B8E;
+}

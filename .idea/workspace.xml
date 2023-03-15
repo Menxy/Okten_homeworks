@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_9: DOM">
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/scriptStat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/stat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/js_hw_10/table.html" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_HW_10: forms, events">
+      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script-user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/user-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +130,9 @@
       <workItem from="1678363614194" duration="79000" />
       <workItem from="1678364940425" duration="11543000" />
       <workItem from="1678380659619" duration="6172000" />
-      <workItem from="1678425743061" duration="6589000" />
+      <workItem from="1678425743061" duration="6626000" />
+      <workItem from="1678815879335" duration="10432000" />
+      <workItem from="1678888294811" duration="8735000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -385,14 +386,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678068003757</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="JS_HW_10: forms, events">
+      <created>1678433008305</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678433008306</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework_3: Cards_icons" />
     <MESSAGE value="Homework_3: Cards_icons_Final" />
     <MESSAGE value="Homework_3: Cards_layout_Final" />
     <MESSAGE value="Homework_3: Final" />
@@ -417,6 +424,7 @@
     <MESSAGE value="JS_HW_8: Car" />
     <MESSAGE value="JS_HW_8: Cindy" />
     <MESSAGE value="JS_HW_9: DOM" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_9: DOM" />
+    <MESSAGE value="JS_HW_10: forms, events" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_HW_10: forms, events" />
   </component>
 </project>
