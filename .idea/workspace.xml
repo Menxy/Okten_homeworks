@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_mini_project: 2 pages">
-      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script-post.js" afterDir="false" />
+    <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_mini_project: Probably Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/script-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script-user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/script-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script-post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,7 @@
       <workItem from="1678425743061" duration="6626000" />
       <workItem from="1678815879335" duration="10432000" />
       <workItem from="1678888294811" duration="16047000" />
-      <workItem from="1678947209907" duration="887000" />
+      <workItem from="1678947209907" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -401,14 +397,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678897169398</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="JS_mini_project: Probably Final">
+      <created>1678948166347</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678948166347</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework_3: Cards_layout_Final" />
     <MESSAGE value="Homework_3: Final" />
     <MESSAGE value="Homework_4: 1st" />
     <MESSAGE value="Homework_4: Final" />
@@ -433,6 +435,7 @@
     <MESSAGE value="JS_HW_9: DOM" />
     <MESSAGE value="JS_HW_10: forms, events" />
     <MESSAGE value="JS_mini_project: 2 pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_mini_project: 2 pages" />
+    <MESSAGE value="JS_mini_project: Probably Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_mini_project: Probably Final" />
   </component>
 </project>

@@ -21,29 +21,28 @@ fetch(postUrl)
             item.innerText = `${key}: ${post[key]}.`
             wrap.appendChild(item)
         }
-        document.body.appendChild(header)
-        document.body.appendChild(wrap)
+        document.body.append(header, wrap)
+        fetch(commentsUrl)
+            .then(comments => comments.json())
+            .then(comments => {
+                let comHeader = document.createElement('h3');
+                comHeader.classList.add('header');
+                comHeader.innerText = `Post ${postNum} comments`;
+                let commentsList = document.createElement('div');
+                commentsList.classList.add('posts-list');
+                for (const comment of comments) {
+                    let commentPost = document.createElement('div');
+                    commentPost.classList.add('post-li')
+                    for (const commentKey in comment) {
+                        let commentLine = document.createElement('div');
+                        commentLine.innerText = `${commentKey}: ${comment[commentKey]}`
+                        commentPost.appendChild(commentLine)
+                    }
+                    commentsList.appendChild(commentPost)
+                }
+                document.body.append(comHeader, commentsList)
+            })
     })
-fetch(commentsUrl)
-    .then(comments => comments.json())
-    .then(comments => {
-        let header = document.createElement('h3');
-        header.classList.add('header');
-        header.innerText = `Comments`;
-        let commentsList = document.createElement('div');
-        commentsList.classList.add('posts-list');
-        for (const comment of comments) {
-            let commentPost = document.createElement('div');
-            commentPost.classList.add('post-li')
-            for (const commentKey in comment) {
-                let commentLine = document.createElement('div');
-                commentLine.innerText = `${commentKey}: ${comment[commentKey]}`
-                commentPost.appendChild(commentLine)
-            }
-            commentsList.appendChild(commentPost)
-        }
 
-        document.body.appendChild(header)
-        document.body.appendChild(commentsList)
-    })
+
 
