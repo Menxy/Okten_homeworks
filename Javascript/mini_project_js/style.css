@@ -20,7 +20,7 @@
 }
 
 .button {
-    border: 3px solid #289976;
+    border: 3px solid #45a184;
     border-radius: 5px;
     background: #eef5e1;
     padding: 3px 35px;
@@ -52,14 +52,32 @@
     padding: 5px 0;
     text-align: center;
     margin: 20px 5%;
-    color: #3D3B8E;
+    color: #565656;
     width: 90%;
 }
 .posts-list {
-    margin-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2.5%;
+    row-gap: 10px;
+    margin: 0 5%;
     text-transform: capitalize;
 }
 .post-li::marker {
     content: '  ✔    ';
     color: #3D3B8E;
 }
+.post-li {
+    box-sizing: border-box;
+    padding: 10px;
+    flex: 0 0 18%;
+    background: #f1f5eb;
+    border-radius: 15px;
+
+}
+.post-li-button {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #5d5ad0;
+}
+/* post-details.html */
