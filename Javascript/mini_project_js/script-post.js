@@ -32,7 +32,7 @@ fetch(postUrl)
                 commentsList.classList.add('posts-list');
                 for (const comment of comments) {
                     let commentPost = document.createElement('div');
-                    commentPost.classList.add('post-li')
+                    commentPost.classList.add('post-li', 'post-4col')
                     for (const commentKey in comment) {
                         let commentLine = document.createElement('div');
                         commentLine.innerText = `${commentKey}: ${comment[commentKey]}`
