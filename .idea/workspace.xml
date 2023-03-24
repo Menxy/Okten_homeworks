@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d8df158-5d21-40f0-b80e-70360b500de2" name="Changes" comment="JS_mini_project: Final">
+      <change afterPath="$PROJECT_DIR$/Databases/db_hw_1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/script-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script-post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/mini_project_js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/mini_project_js/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +36,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JSInitializeFieldsIntentionBase.visibility&quot;: &quot;private&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/menxy/IdeaProjects/Okten_homeworks/Javascript/js_hw_9&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JSInitializeFieldsIntentionBase.visibility": "private",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/menxy/IdeaProjects/Okten_homeworks",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks" />
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\Javascript\js_hw_9" />
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\Javascript\js_hw_3" />
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\Javascript\js_hw_2" />
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\html\html_homework_3\css" />
-      <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\html\html_homework_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\menxy\IdeaProjects\Okten_homeworks\html\html_homework_3\css" />
@@ -131,7 +134,11 @@
       <workItem from="1678425743061" duration="6626000" />
       <workItem from="1678815879335" duration="10432000" />
       <workItem from="1678888294811" duration="16047000" />
-      <workItem from="1678947209907" duration="2169000" />
+      <workItem from="1678947209907" duration="2783000" />
+      <workItem from="1679069650634" duration="986000" />
+      <workItem from="1679131726899" duration="570000" />
+      <workItem from="1679132440073" duration="735000" />
+      <workItem from="1679661421226" duration="7902000" />
     </task>
     <task id="LOCAL-00001" summary="Homework_1: First commit">
       <created>1674068037209</created>
@@ -413,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678948962866</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="JS_mini_project: Final">
+      <created>1678949408928</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1678949408928</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
