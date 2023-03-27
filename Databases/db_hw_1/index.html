@@ -200,9 +200,16 @@ group by c.idClient order by minSum limit 1;
 select * from application where Sum > (select avg(Sum) from application);
 
 /*26. Знайти клієнтів, які є з того самого міста, що і клієнт, який взяв найбільшу кількість кредитів*/
-
+select * from client where City = (select City from client
+    join application a on client.idClient = a.Client_idClient
+group by Client_idClient
+order by count(a.idApplication) desc limit 1);
 
 /*27. Місто клієнта з найбільшою кількістю кредитів*/
+select City from client
+    join application a on client.idClient = a.Client_idClient
+group by Client_idClient
+order by count(a.idApplication) desc limit 1;
 
 -->
 </body>
